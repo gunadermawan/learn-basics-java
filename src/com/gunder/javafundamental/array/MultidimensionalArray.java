@@ -17,6 +17,7 @@ public class MultidimensionalArray {
 //        menampilkan array
         System.out.println("Dimensi 1 dengan indeks 0 dan dimensi 2 dengna indeks 0 adalah: " + arrChar[0][0]);
         System.out.println("Dimensi 1 dengan indeks 0 dan dimensi 2 dengna indeks 1 adalah: " + arrChar[0][1]);
+
         System.out.println("Dimensi 1 dengan indeks 1 dan dimensi 0 dengna indeks 1 adalah: " + arrChar[1][0]);
         System.out.println("Dimensi 1 dengan indeks 1 dan dimensi 1 dengna indeks 1 adalah: " + arrChar[1][1]);
         System.out.println("Dimensi 1 dengan indeks 1 dan dimensi 2 dengna indeks 1 adalah: " + arrChar[1][2]);
