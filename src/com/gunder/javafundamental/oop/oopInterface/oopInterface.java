@@ -1,4 +1,4 @@
-package com.gunder.javafundamental.oop;
+package com.gunder.javafundamental.oop.oopInterface;
 
 public interface oopInterface {
     String infoInterface = "info interface java";
