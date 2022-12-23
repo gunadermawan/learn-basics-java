@@ -1,13 +1,9 @@
-# Lets start with java fundamentals
-1. Struktur Dasar  
-> Materi dasar pemrograman java
-2. Tipe Data
-> tipe data dalam Java, meliputi int, float, char, long, double, boolean, byte dan short.  
-3. String
-> String dalam pemrograman java
-4. Operator
-> meliputi operator aritmatika serta operator lain seperti assignment, unary, equality and relational, dan condition.
-5. Fungsi input dan output
-> komponen untuk meneriima inputan dan menampilkan inputan ke user
-6. Array
-> pembuatan array untuk menampung kumnpulan data dalam sebuah objek serta implementasinya dalam pemrograman
+# Lets start with java fundamentals  
+1. Java Dasar  
+> Materi dasar pemrograman java  
+2. Control Flow  
+> urutan eksekusi perintah di dalam program java.  
+3. Collection Type  
+> kumpulan interface yang digunakan sebagai wadah untuk mengumpulkan beberapa elemen menjadi satu kesatuan dalam pemrograman java  
+4. Object Oriented Programming  
+> pemrograman berorientasi objek pada java 
